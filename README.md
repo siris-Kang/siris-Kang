@@ -1,6 +1,9 @@
-### Hi there 👋
+### SIRIS's
+
+Embedded Programmer 
 
 BOJ: https://www.acmicpc.net/user/kke3436
+Solved: https://solved.ac/profile/voyant
 
 <!--
 - 🔭 I’m currently working on ...
