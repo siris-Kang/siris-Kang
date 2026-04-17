@@ -2,16 +2,18 @@
 
 Embedded System Engineer
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=voyant)](https://solved.ac/voyant)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kke3436)](https://solved.ac/kke3436)
+<div>
+  <p><strong>voyant</strong> | 2025.07.08 ~</p>
+  <a href="https://solved.ac/profile/voyant">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=voyant" alt="Solved.ac 프로필 voyant" />
+  </a>
+</div>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div>
+  <p><strong>kke3436</strong> | ~ 2025.07.08</p>
+  <a href="https://solved.ac/profile/kke3436">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kke3436" alt="Solved.ac 프로필 kke3436" />
+  </a>
+</div>
