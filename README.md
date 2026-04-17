@@ -3,7 +3,7 @@
 Embedded System Engineer
 
 <div>
-  <p><strong>voyant</strong> | 2025.07.08 ~</p>
+  <p><strong>voyant</strong> | 2025.07.08 ~ 2026.04.28</p>
   <a href="https://solved.ac/profile/voyant">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=voyant" alt="Solved.ac 프로필 voyant" />
   </a>
