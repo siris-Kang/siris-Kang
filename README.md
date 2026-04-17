@@ -2,7 +2,7 @@
 
 Embedded System Engineer
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={voyant})](https://solved.ac/{voyant})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=voyant)](https://solved.ac/voyant)
 
 
 <!--
