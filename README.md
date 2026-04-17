@@ -3,7 +3,7 @@
 Embedded System Engineer
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=voyant)](https://solved.ac/voyant)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kke3436)](https://solved.ac/kke3436)
 
 <!--
 - 🔭 I’m currently working on ...
